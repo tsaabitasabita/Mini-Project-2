@@ -71,7 +71,7 @@ Program akan menampilkan menu klien, dan meminta klien untuk memilih menu sesuai
 
 ![gambar 10](https://github.com/user-attachments/assets/83cc8622-3ecf-4479-9f88-6de94429deb4)
 
-Ketika klien memilih 1(rekoemndasi buku) pada menu klien setelah login, program akan menampilkan daftar genre berupa tabel, dan meminta klie untuk mengisi nomor genre yang klien minati. Setelah itu program langsung menampilkan beberapa judul buku yang sesuai dengan genre yang klien pilih. Program juga menanyakan apakah ingin memilih genre lagi?, jika "ya" maka program meminta mengisi pilihan genre jika "tidak" akan kembali ke menu klien.
+Ketika klien memilih 1(rekomendasi buku) pada menu klien setelah login, program akan menampilkan daftar genre berupa tabel, dan meminta klie untuk mengisi nomor genre yang klien minati. Setelah itu program langsung menampilkan beberapa judul buku yang sesuai dengan genre yang klien pilih. Program juga menanyakan apakah ingin memilih genre lagi?, jika "ya" maka program meminta mengisi pilihan genre jika "tidak" akan kembali ke menu klien.
 
 ![gambar 11](https://github.com/user-attachments/assets/41aed9de-526a-422f-a0cd-4b35654f58d4)
 

@@ -1,6 +1,6 @@
 # Mini-Project-2
 
-**Nama   :Tsabitah Kawiwara**
+**Nama   :Tsabitah Kawiswara**
 
 **NIM    :2409116099**
 

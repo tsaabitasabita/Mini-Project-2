@@ -46,10 +46,8 @@ Gambar diatas adalah tampilan ketika admin memilih 2, akan ditampilkan tabel dat
 ![gambar 6](https://github.com/user-attachments/assets/6701a22f-ffc1-4bbb-b3de-ca5862544e95)
 Gambar diatas adalah tampilan ketika admin memilih 3, akan ditampilan tabel data buku dan admin diminta untuk mengisi kode manakah yang ingin perbarui. Setelah itu program akan menanyakan apakah ingin memperbarui genre?, pada bagian ini karena berupa pertanyaan (decision) maka admin dapat mengisi "tidak" jika tidak ingin memperbarui genre dan program akan tetap berlanjut. Jika admin mengisi "ya" maka program akan meminta admin untuk mengisi genre baru. Selanjutnya program akan menanyakan lagi apakah ingin memperbarui buku?, jika "ya" maka program meminta mengisi jenis buku baru, dan jika "tdiak" maka progran akan memperbarui data dan menampilkan tabel terbaru setelah data diperbarui.
 
-
-Hasil data yang telah diperbarui
-
-
+Hasil data yang telah diperbarui pada gambar dibawah ini
+![baru](https://github.com/user-attachments/assets/1c9a5890-8df7-44ae-bcc2-6396fdcae7d9)
 
 ![gambar7](https://github.com/user-attachments/assets/84fa6900-998c-4f83-8751-8a9fe3a49cea)
 Gambar diatas adalah tampilan ketika admin memilih 4, akan ditampilkan tabel data buku dan admin diminta untuk mengisi kode dan bagian mana yang ingin dihapus, program akan menghapus data sesuai dengan yang diisi admin.

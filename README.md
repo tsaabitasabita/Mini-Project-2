@@ -27,6 +27,7 @@ Pada gambar diatas, adalah pembukaan program yang akan meminta user untuk mengin
 Gambar diatas adalah tampilan ketika user meimilih 1, dimana user akan diminta mengisi username dan password sebelum masuk ke menu admin
 
 ![gammbar 3](https://github.com/user-attachments/assets/ddb32901-2190-432a-9717-e6e814fd664f)
+
 Ketika username dan password telah sesuai, maka login berhasil dan program akan menampilkan menu admin yang terdiri dari 5 pilihan. 
 1. Pilihan 1 = admin dapat menambahkan genre dan koleksi buku
 2. pilihan 2 = admin dapat melihat informasi data buku
@@ -35,21 +36,25 @@ Ketika username dan password telah sesuai, maka login berhasil dan program akan 
 5. pilihan 5 = admin akan kembali ke menu utama
 
 ![gambar 4](https://github.com/user-attachments/assets/4155557d-d215-43b1-8f42-b1d4f10e1f93)
+
 Gambar diatas adalah tampilan ketikan admin memilih 1, akan ditampilkan tabel data buku dan admin diminta untuk memasukan nama kode/genre/jenis buku yang akan ditambahkan kedalam data. Program akan menambahkan data sesuai dengan yang diminta oleh admin ketika megisi kode/genre/jenis buku.
 
 Hasil data yang telah ditambah pada gambar dibawaj ini
 ![tambah](https://github.com/user-attachments/assets/7d490c6c-bc43-4aff-b6d8-b24cba6dfb23)
 
 ![gambar 5](https://github.com/user-attachments/assets/32be90bb-6dac-4654-b188-b36df0384b5a)
+
 Gambar diatas adalah tampilan ketika admin memilih 2, akan ditampilkan tabel data buku terbaru jika sebelumnya admin telah menambahkan data, lalu program akan menanyakan "apakah ingin kembali ke menu admin?" jika "ya" maka admin kembali pada menu admin, jika "tidak" maka program tetap menampilkan tabel sesuai pilihan awal admin.
 
 ![gambar 6](https://github.com/user-attachments/assets/6701a22f-ffc1-4bbb-b3de-ca5862544e95)
+
 Gambar diatas adalah tampilan ketika admin memilih 3, akan ditampilan tabel data buku dan admin diminta untuk mengisi kode manakah yang ingin perbarui. Setelah itu program akan menanyakan apakah ingin memperbarui genre?, pada bagian ini karena berupa pertanyaan (decision) maka admin dapat mengisi "tidak" jika tidak ingin memperbarui genre dan program akan tetap berlanjut. Jika admin mengisi "ya" maka program akan meminta admin untuk mengisi genre baru. Selanjutnya program akan menanyakan lagi apakah ingin memperbarui buku?, jika "ya" maka program meminta mengisi jenis buku baru, dan jika "tdiak" maka progran akan memperbarui data dan menampilkan tabel terbaru setelah data diperbarui.
 
 Hasil data yang telah diperbarui pada gambar dibawah ini
 ![baru](https://github.com/user-attachments/assets/1c9a5890-8df7-44ae-bcc2-6396fdcae7d9)
 
 ![gambar7](https://github.com/user-attachments/assets/84fa6900-998c-4f83-8751-8a9fe3a49cea)
+
 Gambar diatas adalah tampilan ketika admin memilih 4, akan ditampilkan tabel data buku dan admin diminta untuk mengisi kode dan bagian mana yang ingin dihapus, program akan menghapus data sesuai dengan yang diisi admin.
 
 
@@ -59,11 +64,14 @@ Hasil data buku setelah salah satu data nya telah di hapus pada gambar dibawah i
 
 
 ![gambar 9](https://github.com/user-attachments/assets/ed2b629a-5e69-40ab-9daa-ee4002331cda)
+
 Gambar diatas adalah tampilan ketika user memilih 2 pada menu utama.
 Program akan menampilkan menu klien, dan meminta klien untuk memilih menu sesuai dengan tujuan klien. Ketika klien memilih 1, maka program meminta untuk mengisi username dan password. Jika username dan password benar makan program melanjutkan ke menu klien berikutnya.
 
 ![gambar 10](https://github.com/user-attachments/assets/83cc8622-3ecf-4479-9f88-6de94429deb4)
+
 Ketika klien memilih 1, program akan menampilkan daftar genre berupa tabel, dan meminta klie untuk mengisi nomor genre yang klien minati. Setelah itu program langsung menampilkan beberapa judul buku yang sesuai dengan genre yang klien pilih. Program juga menanyakan apakah ingin memilih genre lagi?, jika "ya" maka program meminta mengisi pilihan genre jika "tidak" akan kembali ke menu klien.
 
 ![gambar 11](https://github.com/user-attachments/assets/41aed9de-526a-422f-a0cd-4b35654f58d4)
+
 Kembali lagi pada menu utama, ketika user memilih 3, makan program selesai dan tidak melanjutkan proses seperti pada gambar diatas 

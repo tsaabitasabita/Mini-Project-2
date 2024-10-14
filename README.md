@@ -55,11 +55,12 @@ Hasil data yang telah diperbarui
 Gambar diatas adalah tampilan ketika admin memilih 4, akan ditampilkan tabel data buku dan admin diminta untuk mengisi kode dan bagian mana yang ingin dihapus, program akan menghapus data sesuai dengan yang diisi admin.
 
 
-Hasil data buku setelah salah satu data nya telah di hapus
+Hasil data buku setelah salah satu data nya telah di hapus pada gambar dibawah ini
+![gambar 8](https://github.com/user-attachments/assets/9afdb026-4c64-43ed-8552-cee279d47cdf)
 
 
 Ketika admin memilih 5, maka akan kembali ke menu utama.
-![gambar 8](https://github.com/user-attachments/assets/9afdb026-4c64-43ed-8552-cee279d47cdf)
+![gambar 9](https://github.com/user-attachments/assets/ed2b629a-5e69-40ab-9daa-ee4002331cda)
 Gambar diatas adalah tampilan ketika user memilih 2 pada menu utama.
 Program akan menampilkan menu klien, dan meminta klien untuk memilih menu sesuai dengan tujuan klien. Ketika klien memilih 1, maka program meminta untuk mengisi username dan password. Jika username dan password benar makan program melanjutkan ke menu klien berikutnya.
 

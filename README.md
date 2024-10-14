@@ -7,7 +7,7 @@
 **Kelas  :Sistem Informasi C**
 
 
-****Flowchart Sistem rekomendasi buku****
+# Flowchart Sistem Rekomendasi Buku
 ![fc 1](https://github.com/user-attachments/assets/b25b3ab1-174b-4f9f-91fd-8298bb8407a3)
 
 ![fc2](https://github.com/user-attachments/assets/9a4eb1c1-cdbc-471e-aa92-1a11b926c06a)

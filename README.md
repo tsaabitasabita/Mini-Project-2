@@ -75,4 +75,4 @@ Ketika klien memilih 1(rekomendasi buku) pada menu klien setelah login, program 
 
 ![gambar 11](https://github.com/user-attachments/assets/41aed9de-526a-422f-a0cd-4b35654f58d4)
 
-Kembali lagi pada menu utama, ketika user memilih 3(selesai), makan program selesai dan tidak melanjutkan proses seperti pada gambar diatas 
+Kembali lagi pada menu utama, ketika user memilih 3(selesai), makan program selesai dan tidak melanjutkan proses seperti pada gambar diatas.

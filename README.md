@@ -57,13 +57,13 @@ Hasil data buku setelah salah satu data nya telah di hapus pada gambar dibawah i
 ![gambar 8](https://github.com/user-attachments/assets/9afdb026-4c64-43ed-8552-cee279d47cdf)
 
 
-Ketika admin memilih 5, maka akan kembali ke menu utama.
+
 ![gambar 9](https://github.com/user-attachments/assets/ed2b629a-5e69-40ab-9daa-ee4002331cda)
 Gambar diatas adalah tampilan ketika user memilih 2 pada menu utama.
 Program akan menampilkan menu klien, dan meminta klien untuk memilih menu sesuai dengan tujuan klien. Ketika klien memilih 1, maka program meminta untuk mengisi username dan password. Jika username dan password benar makan program melanjutkan ke menu klien berikutnya.
 
-
+![gambar 10](https://github.com/user-attachments/assets/83cc8622-3ecf-4479-9f88-6de94429deb4)
 Ketika klien memilih 1, program akan menampilkan daftar genre berupa tabel, dan meminta klie untuk mengisi nomor genre yang klien minati. Setelah itu program langsung menampilkan beberapa judul buku yang sesuai dengan genre yang klien pilih. Program juga menanyakan apakah ingin memilih genre lagi?, jika "ya" maka program meminta mengisi pilihan genre jika "tidak" akan kembali ke menu klien.
 
-
-Kembali lagi pada menu utama, ketika user memilih 3, makan program selesai dan tidak melanjutkan proses 
+![gambar 11](https://github.com/user-attachments/assets/41aed9de-526a-422f-a0cd-4b35654f58d4)
+Kembali lagi pada menu utama, ketika user memilih 3, makan program selesai dan tidak melanjutkan proses seperti pada gambar diatas 

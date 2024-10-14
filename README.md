@@ -37,11 +37,11 @@ Ketika username dan password telah sesuai, maka login berhasil dan program akan 
 ![gambar 4](https://github.com/user-attachments/assets/4155557d-d215-43b1-8f42-b1d4f10e1f93)
 Gambar diatas adalah tampilan ketikan admin memilih 1, akan ditampilkan tabel data buku dan admin diminta untuk memasukan nama kode/genre/jenis buku yang akan ditambahkan kedalam data. Program akan menambahkan data sesuai dengan yang diminta oleh admin ketika megisi kode/genre/jenis buku.
 
-Hasil data yang telah ditambah
+Hasil data yang telah ditambah pada gambar dibawaj ini
+![tambah](https://github.com/user-attachments/assets/7d490c6c-bc43-4aff-b6d8-b24cba6dfb23)
 
 ![gambar 5](https://github.com/user-attachments/assets/32be90bb-6dac-4654-b188-b36df0384b5a)
 Gambar diatas adalah tampilan ketika admin memilih 2, akan ditampilkan tabel data buku terbaru jika sebelumnya admin telah menambahkan data, lalu program akan menanyakan "apakah ingin kembali ke menu admin?" jika "ya" maka admin kembali pada menu admin, jika "tidak" maka program tetap menampilkan tabel sesuai pilihan awal admin.
-
 
 ![gambar 6](https://github.com/user-attachments/assets/6701a22f-ffc1-4bbb-b3de-ca5862544e95)
 Gambar diatas adalah tampilan ketika admin memilih 3, akan ditampilan tabel data buku dan admin diminta untuk mengisi kode manakah yang ingin perbarui. Setelah itu program akan menanyakan apakah ingin memperbarui genre?, pada bagian ini karena berupa pertanyaan (decision) maka admin dapat mengisi "tidak" jika tidak ingin memperbarui genre dan program akan tetap berlanjut. Jika admin mengisi "ya" maka program akan meminta admin untuk mengisi genre baru. Selanjutnya program akan menanyakan lagi apakah ingin memperbarui buku?, jika "ya" maka program meminta mengisi jenis buku baru, dan jika "tdiak" maka progran akan memperbarui data dan menampilkan tabel terbaru setelah data diperbarui.

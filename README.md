@@ -18,3 +18,6 @@
 
 ![fc5](https://github.com/user-attachments/assets/108c12ee-ccbb-4cb8-b79d-04fbd6248571)
 
+# Penjelasan cara kerja sistem
+
+
